@@ -28,8 +28,7 @@ GLUON_SITE_PACKAGES := \
 	gluon-status-page \
 	haveged \
 	iptables \
-	iwinfo \
-	mdns
+	iwinfo 
 
 ##	DEFAULT_GLUON_RELEASE
 #		version string to use for images
