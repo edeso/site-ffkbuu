@@ -1,6 +1,5 @@
-# site-ffkbucgn
-Gluon Site Config Directory for Hood Umland
+# site-ffkbuk
 
-Check Branches for different Gluon Releases.
+Gluon Site Config Directory for Hood Köln
 
-To build a KBU Release use the corresponding version tag of ff-kbu/gluon
+To use to build a KBU Release use the tagged branch that corresponds to the gluon version.
